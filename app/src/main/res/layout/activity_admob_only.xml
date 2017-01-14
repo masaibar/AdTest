@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.masaibar.adtest.AdmobOnlyActivity">
+    tools:context="com.masaibar.adtest.AdMobOnlyActivity">
 
     <com.google.android.gms.ads.AdView
         android:id="@+id/adview_banner"
