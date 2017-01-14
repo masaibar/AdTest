@@ -23,6 +23,7 @@ public class AdmobOnlyActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_admob_only);
 
+        setTitle("AdMob only");
         initAd();
     }
 
