@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "548851686755",
+    "firebase_url": "https://adtest-a1e46.firebaseio.com",
+    "project_id": "adtest-a1e46",
+    "storage_bucket": "adtest-a1e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548851686755:android:84eb354ce2223451",
+        "android_client_info": {
+          "package_name": "com.masaibar.adtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548851686755-silh6k9em8s02t57vle3b99ipci9k4k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmQZVZjSVefTNp80BLAG7aeo6ulp8opWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
