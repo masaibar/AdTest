@@ -23,4 +23,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="facebook only"/>
+
+    <Button
+        android:id="@+id/button_admob_mediation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="admob mediation"/>
 </LinearLayout>

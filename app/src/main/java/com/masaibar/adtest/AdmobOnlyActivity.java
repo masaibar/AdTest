@@ -8,10 +8,10 @@ import android.os.Bundle;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
-public class AdmobOnlyActivity extends AppCompatActivity {
+public class AdMobOnlyActivity extends AppCompatActivity {
 
     public static void start(Context context) {
-        Intent intent = new Intent(context, AdmobOnlyActivity.class);
+        Intent intent = new Intent(context, AdMobOnlyActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         context.startActivity(intent);
     }
