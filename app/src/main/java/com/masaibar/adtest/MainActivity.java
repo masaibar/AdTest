@@ -17,5 +17,12 @@ public class MainActivity extends AppCompatActivity {
                 AdmobOnlyActivity.start(getApplicationContext());
             }
         });
+
+        findViewById(R.id.button_facebook_only).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                FacebookOnlyActivity.start(getApplicationContext());
+            }
+        });
     }
 }
